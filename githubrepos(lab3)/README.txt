@@ -1,4 +1,7 @@
 
+files "assignment3.h" and "main.c" were given.
+
+
 This was given out as an assignment in the class "Principles of Programming", it was handed out as a sort of
 "baptism by fire" when it comes to data structures since we had only really explored arrays previously. I had
 no experience beforehand creating linked lists in any language and the information was only taught within
