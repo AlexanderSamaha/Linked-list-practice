@@ -1,5 +1,5 @@
 
-files "assignment3.h", "main.c" and "makefile" were given.
+files "assignment3.h", "main.c" were given.
 
 
 This was given out as an assignment in the class "Principles of Programming", it was handed out as a sort of
